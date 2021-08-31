@@ -955,7 +955,7 @@
             <div>
                 <div class="min-h-screen bg-gray-100">
                     <main class="py-10">
-                        <div class="max-w-4xl mx-auto px-4 sm:px-6 md:flex md:items-center md:justify-between md:space-x-5 lg:max-w-7xl lg:px-8">
+                        <div class="max-w-4xl mx-auto px-4 justify-between sm:px-6 flex items-center space-x-5 lg:max-w-7xl lg:px-8">
                             <a href="https://cleavr.io" target="_blank" class="flex items-center space-x-3">
                                 <div class="flex-shrink-0">
                                     <div class="relative">
