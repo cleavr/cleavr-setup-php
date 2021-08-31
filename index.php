@@ -434,6 +434,10 @@
     .h-8 {
         height: 2rem
     }
+        
+    .h-16 {
+        height: 4rem
+    }
 
     .h-full {
         height: 100%
