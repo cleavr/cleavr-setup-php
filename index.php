@@ -630,6 +630,10 @@
     .w-8 {
         width: 2rem
     }
+        
+        .w-16 {
+        height: 4rem
+    }
 
     .gap-6 {
         grid-gap: 1.5rem;
